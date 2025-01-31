@@ -1,6 +1,6 @@
 tasks:
-  - init: chmod +x pocketbase-linux-amd64
-    command: ./pocketbase-linux-amd64 serve
+  - init: chmod +x pocketbase
+    command: ./pocketbase serve
 
 ports:
   - port: 8090
