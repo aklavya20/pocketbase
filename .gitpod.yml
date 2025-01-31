@@ -1,8 +1,8 @@
-echo "tasks:
-  - name: Run PocketBase
-    command: |
-      chmod +x pocketbase
-      ./pocketbase serve
+tasks:
+  - init: chmod +x pocketbase-linux-amd64
+    command: ./pocketbase-linux-amd64 serve
+
 ports:
   - port: 8090
-    onOpen: open-preview" > .gitpod.yml
+    onOpen: open-preview
+
