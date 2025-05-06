@@ -17,7 +17,7 @@ This repository sets up a **PocketBase** instance hosted on **Gitpod**, providin
 
 ### 1. Fork the Repository
 To use or modify this PocketBase setup:
-- Go to the [repository page](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY).
+- Go to the [repository page](https://github.com/aklavya20/pocketbase).
 - Click the **Fork** button in the top-right corner to create a copy under your GitHub account.
 
 Replace `YOUR_USERNAME/YOUR_REPOSITORY` with the actual GitHub username and repository name.
