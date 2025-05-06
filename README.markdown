@@ -24,14 +24,14 @@ Replace `YOUR_USERNAME/YOUR_REPOSITORY` with the actual GitHub username and repo
 
 ### 2. Open in Gitpod
 Launch the forked repository in Gitpod:
-- Navigate to your forked repo (e.g., `https://github.com/THEIR_USERNAME/YOUR_REPOSITORY`).
+- Navigate to your forked repo (e.g., `https://github.com/YOUR_USERNAME/YOUR_REPOSITORY`).
 - Prepend `https://gitpod.io/#` to the repo URL, like this:
   ```
-  https://gitpod.io/#https://github.com/THEIR_USERNAME/YOUR_REPOSITORY
+  https://gitpod.io/#https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
   ```
 - Open the URL in a browser, or use the button below if added to the repo:
 
-  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YOUR_USERNAME/YOUR_REPOSITORY)
+  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/aklavya20/https://github.com/aklavya20/pocketbase.git)
 
 - Gitpod will set up the workspace, start the PocketBase server, and open a preview on port `8090`.
 
