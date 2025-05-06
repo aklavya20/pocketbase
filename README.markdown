@@ -31,7 +31,7 @@ Launch the forked repository in Gitpod:
   ```
 - Open the URL in a browser, or use the button below if added to the repo:
 
-  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/aklavya20/https://github.com/aklavya20/pocketbase.git)
+  [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/aklavya20/pocketbase.git)
 
 - Gitpod will set up the workspace, start the PocketBase server, and open a preview on port `8090`.
 
